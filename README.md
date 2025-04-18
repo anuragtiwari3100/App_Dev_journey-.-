@@ -23,9 +23,12 @@ This repo contains all the practical codes and mini-projects based on my college
 
 ## 📸 Screenshots
 
-| Login Page             | Dashboard               | Profile Page           |
-|------------------------|-------------------------|------------------------|
-| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) | ![Profile](assets/profile.png) |
+## 📸 Screenshots
+
+| Login & Dashboard     | Profile Page          |
+|-----------------------|-----------------------|
+| ![LoginDashboard](1.png) | ![Profile](2.png)   |
+
 
 > *Screenshots from some of the Flutter apps included in this repo.*
 
