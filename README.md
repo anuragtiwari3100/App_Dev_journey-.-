@@ -30,7 +30,6 @@ This repo contains all the practical codes and mini-projects based on my college
 | ![LoginDashboard](1.png) | ![Profile](2.png)   |
 
 
-> *Screenshots from some of the Flutter apps included in this repo.*
 
 ---
 
